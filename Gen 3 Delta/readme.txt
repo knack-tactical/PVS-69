@@ -1,6 +1,6 @@
 PVS-69 GEN3 Delta. 
 
-this design requires the following printed components: 
+This design requires the following printed components: 
 
 1x Dovetail
 

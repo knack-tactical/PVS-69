@@ -1,1 +1,1 @@
-PVS-69 GEN3 ALPHA
+PVS-69 Gen3 ALPHA - Analog Version

@@ -1,6 +1,6 @@
 # PVS-69
 
-__Disclaimer__: This project is experimental, still in development, and is recommended for experienced tinkerers. Don't let that disuade you, but know that documentation, methods, and peocedures are not production ready.
+__Disclaimer__: This project is experimental, still in development, and is recommended for experienced tinkerers and moderate solderers. Don't let that disuade you, but know that documentation, methods, and peocedures are not production ready.
 
 [Frequently Asked Questions can be found here.](https://github.com/knack-69/PVS-69/wiki/Frequently-Asked-Questions)
 

@@ -53,7 +53,7 @@ you will also need aproximately 24" of wire, I recommend black and red.
 
 
 
-OPTIONALLY
+### Optional Components
 
 If you would like to try for the auto shutoff function you will need 
 

@@ -23,7 +23,7 @@
 2x [Collars](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Collar.stl)
 
 
-### For physical components you will need the following:
+### For physical components you will need the following: (*This list is still under development*)
 
 11x M5x7 heat set insert
 
@@ -49,5 +49,7 @@ this can be found on Amazon sold in a 2 pack
 2x 13x3mm Nitrile Oring
 
 5x 22x2mm Nitrile Oring (you can buy a multipack that has all three sizes)
+
+1X 2x8mm rare earth magnet 
 
 You will also need aproximately 24" of 20-24 AWG wire, we recommend black and red. 

@@ -11,3 +11,5 @@ It uses a camera and small screen, rather than a phosphor tube, and is designed 
 ## Why is it useful?
 The current suggested components cost ~$400, about 10x less than the industry standard phosphor tube-based version.
 
+## What is the current version?
+The current version of the PVS-69 is [Gen3 ECHO](https://github.com/knack-69/PVS-69/tree/main/PVS-69%20versions/Gen3%20ECHO)

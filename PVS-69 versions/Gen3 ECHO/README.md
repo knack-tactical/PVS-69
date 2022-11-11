@@ -1,5 +1,8 @@
 # PVS-69 Gen3 ECHO
 
+
+## Bill of Materials
+
 ### This design requires the following printed components: 
 
 1x [Dovetail](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Dovetail.stl)
@@ -25,31 +28,59 @@
 
 ### For physical components you will need the following: (*This list is still under development*)
 
-11x M5x7 heat set insert
+#### Gen3 Bridge (Internal and External Battery)
 
-11x M5x8 bolts (for the dovetail, a button head screw is reccomend) 
+1x [3-position rotary switch](https://amzn.to/3TspGUS).
 
-2x RunCam Night Eagle 3
+11x [M5x8 bolts](https://amzn.to/3EyraZz)
 
-2x V760A-5 or V760A-3 displays. These can be found on Ebay or AliExpress, expect a month for shipping
+11x [M5x5.8threaded inserts](https://amzn.to/3E0fzRt)
 
-1x 3-position rotary switch. I use "Rotary Switch 16MM Selector Switch 3 Position Select Switch"
-this can be found on Amazon sold in a 2 pack
+2x [RunCam Night Eagle 3](https://amzn.to/3Epdyhh)
 
-1x 300x8mm OD of brass tubing. you will only use 100mm
+2x V760A-5 or V760A-3 displays. These can be found on Ebay or AliExpress, expect a month for shipping.
 
-1x 5.5x2.1mm DC female jack. This can also be found on Amazon. I used the plastic ones sold in a 5 pack
+2x [45-46mm section of brass tubing](https://amzn.to/3E3g5Oq)
 
-1x AA battery terminals. these are sold in a 20 pack
+1x [5.5x2.1mm DC female jack](https://amzn.to/3KLofNA)
 
-1x Buck Converter. I used the eBoot Mini MP1584EN DC-DC Buck Converter Adjustable Power Supply Module (6 Pack) 
+1x [AA battery terminals](https://amzn.to/3KSQGZZ)
 
-2x 10x2mm Nitrile Oring
+1x [Buck Converter](https://amzn.to/3E0fn4H) (if not using a [5V USB Power Bank](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup]() for more information)
 
-2x 13x3mm Nitrile Oring
+2x [10x2mm Nitrile Oring](https://amzn.to/37mEOko)
 
-5x 22x2mm Nitrile Oring (you can buy a multipack that has all three sizes)
+2x [13x3mm Nitrile Oring](https://amzn.to/3KRAmsA)
 
-1X 2x8mm rare earth magnet 
+5x [22x2mm Nitrile Oring](https://amzn.to/3rrIp7N) (you can buy a [multipack](https://www.amazon.com/gp/product/B092MDGM110) that has all three sizes, thickness is not terribly important)
 
-You will also need aproximately 24" of 20-24 AWG wire, we recommend black and red. 
+1X [2x8mm rare earth magnet](https://amzn.to/3Ostkg)
+
+Aproximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn), we recommend black and red. 
+
+3” section of 16AWG single strand wire (for internal battery positive connection)
+
+#### Gen4 Bridge (External Battery Only)
+1x [Buck Converter](https://amzn.to/3E0fn4H) (if not using a 5V USB Power Bank, like [this one](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup]() for more information)
+
+11x [M5x8 bolts](https://amzn.to/3EyraZz)
+
+11x [M5x5.8threaded inserts](https://amzn.to/3E0fzRt)
+
+For external battery bridge (Gen4), you can use this [push button](https://amzn.to/3Txgdvg) instead.
+
+4x [Brass Washers](https://amzn.to/3WSWOI2)
+
+2x [12mm O ring](https://amzn.to/3fV4qcD)
+
+3X [22mm O ring](https://amzn.to/3V5NT4D)
+
+2x [35mm O ring](https://amzn.to/3fVgjz8)
+
+1x [A spring terminal](https://amzn.to/3EysOdH)
+
+2x [45-46mm section of brass tubing](https://amzn.to/3E3g5Oq)
+
+1x US nickel or other 19mm coin
+
+[20-24 AWG wire](https://amzn.to/3EoQ5yn)

@@ -18,7 +18,7 @@
 
 2x [Ambi Tubes](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Ambi%20tube%20-%20ECHO%20.stl)
 
-1x [Battery Cap](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Battery%20cap.stl)
+1x [Battery Cap](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Battery%20cap.stl) (Only needed if using Gen3 Bridge)
 
 2x [Collars](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Collar.stl)
 

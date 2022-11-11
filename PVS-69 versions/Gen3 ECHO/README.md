@@ -20,6 +20,8 @@
 
 1x [Battery Cap](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Battery%20cap.stl)
 
+2x [Collars](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Collar.stl)
+
 
 ### For physical components you will need the following:
 

@@ -1,30 +1,32 @@
-PVS-69 Gen3 DELTA
+# PVS-69 Gen3 DELTA
 
-This design requires the following printed components: 
+### This design requires the following printed components: 
 
 1x Dovetail
 
 1x Bridge
 
-2x Sensor caps (foxeer or runcam)please note there are +0 and +2. 
-I prefer using the +2 as it wides fov and gives me a better view of the tube.
+2x Sensor caps (foxeer or runcam)
 
-1x right tube
+2x TIP (Tube Intergace Piece) - please note there are +0° and +2° versions. 
+    The +2° version gives a wider FOV
 
-1x left tube or a DVR tube. 
+1x left tube
+
+1x right DVR tube or another left tube 
 
 1x Battery cover
 
-1x Backplate.
+1x Backplate
 
 
-For physical components you will need the following
+### For physical components you will need the following
 
 11x M5x7 heat set insert
 
-11x M5x8 bolts. (for the dovetail a button head is reccomend) 
+11x M5x8 bolts. (for the dovetail, a button head screw is reccomend) 
 
-2x Starlight FPV cameras. Runcam or Foxeer work in this design.
+2x Starlight FPV cameras. RunCam Night Eagle 3 or Foxeer Cat 3 work in this design. RunCam NE3 is suggested.
 
 2x V760A-5 or V760A-3 displays. These can be found on Ebay or AliExpress, expect a month for shipping
 

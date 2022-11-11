@@ -81,7 +81,7 @@ Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)
 
 11x [M5x5.8 Threaded Inserts](https://amzn.to/3E0fzRt)
 
-For external battery bridge (Gen4), you can use this [push button](https://amzn.to/3Txgdvg) instead.
+1x [Push Button](https://amzn.to/3Txgdvg)
 
 4x [Brass Washers](https://amzn.to/3WSWOI2)
 

@@ -75,7 +75,7 @@ Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)
 
 #### Gen4 Bridge (External Battery Only)  
 
-1x [Buck Converter](https://amzn.to/3E0fn4H) (if not using a 5V USB Power Bank, like [this one](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup]() for more information)
+1x [Buck Converter](https://amzn.to/3KSzHHf) (if not using a 5V USB Power Bank, like [this one](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup]() for more information)
 
 11x [M5x8 Bolts](https://amzn.to/3EyraZz)
 

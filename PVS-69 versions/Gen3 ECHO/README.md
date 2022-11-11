@@ -85,6 +85,8 @@ Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)
 
 4x [Brass Washers](https://amzn.to/3WSWOI2)
 
+1x [5.5x2.1mm DC Female Jack](https://amzn.to/3KLofNA)
+
 2x [12mm Nitrile O-ring](https://amzn.to/3fV4qcD)
 
 3X [22mm Nitrile O-ring](https://amzn.to/3V5NT4D)

@@ -30,7 +30,7 @@
 
 2x V760A-5 or V760A-3 displays. These can be found on Ebay or AliExpress, expect a month for shipping
 
-1x 3 position rotary switch. I use "Rotary Switch 16MM Selector Switch 3 Position Select Switch"
+1x 3-position rotary switch. I use "Rotary Switch 16MM Selector Switch 3 Position Select Switch"
 this can be found on Amazon sold in a 2 pack
 
 1x 300x8mm OD of brass tubing. you will only use 100mm
@@ -41,15 +41,15 @@ this can be found on Amazon sold in a 2 pack
 
 1x Buck Converter. I used the eBoot Mini MP1584EN DC-DC Buck Converter Adjustable Power Supply Module (6 Pack) 
 
-2x 10mmx2mm Nitrile Oring
+2x 10x2mm Nitrile Oring
 
-2x 13mmx3mm Nitrile Oring
+2x 13x3mm Nitrile Oring
 
 5x 22x2mm Nitrile Oring (you can buy a multipack that has all three sizes)
 
 1x 2x8mm rare earth magnet
 
-you will also need aproximately 24" of wire, I recommend black and red. 
+You will also need aproximately 24" of 20-24 AWG wire, we recommend black and red. 
 
 
 

@@ -4,7 +4,7 @@
 
 1x [Dovetail](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Dovetail.stl)
 
-1x Bridge. In this design, there are 3 Bridge options:
+1x Bridge Body. In this design, there are 3 Bridge options:
 1. [Gen3 Bridge](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen3%20bridge%20body.stl) is the same bridge as older versions, with an internal battery compartment.
 2. [Gen4 Bridge Back-Load](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen4%20bridge%20back-load%20body.stl) is a newer, sleeker bridge that does *not* have an internal battery compartment. The back-loading version allows the user to more easily build the internals of the bridge and then load it into the back (away from your face).
 3. [Gen4 Bridge Front-Load](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen4%20bridge%20front-load%20body.stl) is the same as above, except it is accessed from the front (towards your face).

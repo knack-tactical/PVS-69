@@ -1,1 +1,0 @@
-PVS-69 Battery Pack

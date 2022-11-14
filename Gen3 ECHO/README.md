@@ -18,8 +18,8 @@ The internal battery connection for the Gen3 Bridge has been redesigned for a mo
 
 1x Bridge Body. In this design, there are 3 Bridge options:
 1. [Gen3 Bridge](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/Gen3%20bridge%20body.stl) is the same bridge as older versions, with an internal battery compartment.
-2. [Gen4 Bridge Front-Load](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen4%20bridge%20front-load%20body.stl) is a newer, sleeker bridge that does *not* have an internal battery compartment. The front-loading version allows the user to more easily build the internals of the bridge and then load it into the front (away from your face).
-3. [Gen4 Bridge Back-Load](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen4%20bridge%20back-load%20body.stl) is the same as above, except it is accessed from the back (towards your face).
+2. [Gen4 Bridge Front-Load](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/Gen4%20bridge%20front-load%20body.stl) is a newer, sleeker bridge that does *not* have an internal battery compartment. The front-loading version allows the user to more easily build the internals of the bridge and then load it into the front (away from your face).
+3. [Gen4 Bridge Back-Load](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/Gen4%20bridge%20back-load%20body.stl) is the same as above, except it is accessed from the back (towards your face).
 
 1x Bridge Backplate, which will depend on the Bridge body you choose
 

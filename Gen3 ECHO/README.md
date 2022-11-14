@@ -14,25 +14,25 @@ The internal battery connection for the Gen3 Bridge has been redesigned for a mo
 
 ### This design requires the following printed components: 
 
-1x [Dovetail](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Dovetail.stl)
+1x [Dovetail](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/Dovetail.stl)
 
 1x Bridge Body. In this design, there are 3 Bridge options:
-1. [Gen3 Bridge](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen3%20bridge%20body.stl) is the same bridge as older versions, with an internal battery compartment.
-2. [Gen4 Bridge Back-Load](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen4%20bridge%20back-load%20body.stl) is a newer, sleeker bridge that does *not* have an internal battery compartment. The back-loading version allows the user to more easily build the internals of the bridge and then load it into the back (away from your face).
-3. [Gen4 Bridge Front-Load](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen4%20bridge%20front-load%20body.stl) is the same as above, except it is accessed from the front (towards your face).
+1. [Gen3 Bridge](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/Gen3%20bridge%20body.stl) is the same bridge as older versions, with an internal battery compartment.
+2. [Gen4 Bridge Front-Load](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen4%20bridge%20front-load%20body.stl) is a newer, sleeker bridge that does *not* have an internal battery compartment. The front-loading version allows the user to more easily build the internals of the bridge and then load it into the front (away from your face).
+3. [Gen4 Bridge Back-Load](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Gen4%20bridge%20back-load%20body.stl) is the same as above, except it is accessed from the back (towards your face).
 
 1x Bridge Backplate, which will depend on the Bridge body you choose
 
-2x [Sensor Caps](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/RunCam%20sensor%20cap.stl)
+2x [Sensor Caps](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/RunCam%20sensor%20cap.stl)
 
-2x TIPs (Tube Interface Pieces) - please note there are [+0°](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/%2B0%20TIP.stl) and [+2°](https://github.com/knack-69/PVS-69/tree/main/PVS-69%20versions/Gen3%20ECHO/STL) versions. 
+2x TIPs (Tube Interface Pieces) - please note there are [+0°](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/%2B0%20TIP.stl) and [+2°](https://github.com/knack-69/PVS-69/tree/main/Gen3%20ECHO/STL) versions. 
     The +2° version gives a wider FOV
 
-2x [Ambi Tubes](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Ambi%20tube%20-%20ECHO%20.stl)
+2x [Ambi Tubes](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/Ambi%20tube%20-%20ECHO%20.stl)
 
-1x [Battery Cap](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Battery%20cap.stl) (Only needed if using Gen3 Bridge)
+1x [Battery Cap](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/Battery%20cap.stl) (Only needed if using Gen3 Bridge)
 
-2x [Collars](https://github.com/knack-69/PVS-69/blob/main/PVS-69%20versions/Gen3%20ECHO/STL/Collar.stl)
+2x [Collars](https://github.com/knack-69/PVS-69/blob/main/Gen3%20ECHO/STL/Collar.stl)
 
 
 ### This design requires the following physical components: (*This list is still under development*)

@@ -16,7 +16,9 @@ The current version of the PVS-69 is the [Gen3 ECHO](https://github.com/knack-69
 
 ## Table of Contents
 
-[PVS-69/Gen3 ECHO](https://github.com/knack-69/PVS-69/tree/main/Gen3%20ECHO) is the current version of the PVS-69.
+[PVS-69/Gen3 ECHO](https://github.com/knack-69/PVS-69/tree/main/Gen3%20ECHO) is the current version of the PVS-69 that is compatible with the V760A family of displays.
+
+[PVS-69/Gen3 FOXTROT[(https://github.com/knack-69/PVS-69/tree/FOXTROT-V780/Gen3%20FOXTROT) is the current version of the PVS-69 that is compatible with the newer, larger V780 displays.
 
 [PVS-69/Wiring Diagrams](https://github.com/knack-69/PVS-69/tree/main/Wiring%20Diagrams) contains the current wiring diagrams for the current version of the PVS-69.
 

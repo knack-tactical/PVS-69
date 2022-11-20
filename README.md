@@ -12,7 +12,7 @@ It uses a fpv drone camera and a small screen, rather than a IIT tube, and is de
 The current suggested components cost ~$400, about 10x less than the industry standard phosphor tube-based version.
 
 ### What is the current version?
-The current version of the PVS-69 is the [Gen3 ECHO](https://github.com/knack-69/PVS-69/tree/main/PVS-69%20versions/Gen3%20ECHO)
+The current version of the PVS-69 is the [Gen3 ECHO](https://github.com/knack-69/PVS-69/tree/main/PVS-69%20versions/Gen3%20ECHO). However, if you are using the newer 44.6mm OD V780 display, you will want to use the [Gen3 FOXTROT](https://github.com/knack-69/PVS-69/tree/FOXTROT-V780/Gen3%20FOXTROT). The Gen3 FOXTROT also comes with a CS Mount Lens Adapter Assembly ([see here for writeup on lenses](https://github.com/knack-69/PVS-69/wiki/Current-Lens-Comparison)), which is interchangable with the NE3 Stock Lens Cap.
 
 ## Table of Contents
 

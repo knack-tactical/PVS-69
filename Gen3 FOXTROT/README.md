@@ -1,22 +1,35 @@
-# PVS-69 Gen3 ECHO
+# PVS-69 Gen3 FOXTROT
 
 ## Changes from ECHO to FOXTROT
 
-The PVS-69 Gen3 FOXTROT is currently in an unprinted BETA. Take that as a word of caution.
+The PVS-69 Gen3 FOXTROT is currently in an unprinted BETA. Take that as a word of caution. Please read all the changes.
 
 (unprinted BETA) FOXTROT changes:
-expanded inner bore for use with V780,
-condensed overall pod length but moving the display bore deeper in the pod.
-opened up the area where the cam connector goes to accommodate more cams.
-added area for the OSD cable o come out the front.
-Added CS mount quick change system. still usable with the classic caps.
-added holes to screw the sensor down for the quick change.
-New low pro bridge (front load) does not require brass tubing however, should be able to accept it.
-both bridges now support the use of m3 bolts to individually adjust pod tightness.
-both bridges have a push to overcome latch to stowe the tubes to the side
-Battery bridge has been slimmed down slightly more to accomadate narrower IPD
+Expanded inner bore for use with V780 display.
 
-## Bill of Materials
+Condensed overall pod length but moved the display bore deeper in the pod.
+
+Opened up the area where the cam connector goes to accommodate more cams.
+
+Added area for the OSD cable to come out the front.
+
+Added CS mount quick change system. Still usable with the classic caps (Called 'NE3 Stock Sensor Cap' in .step)
+
+Added holes to screw the sensor down for the quick change.
+
+New Gen4 Bridge (front load) does not require brass tubing however, should be able to accept it.
+
+Both bridges now support the use of M3 bolts to individually adjust pod tightness.
+
+Both bridges have a push-to overcome-latch to stow the tubes to the side.
+
+Battery bridge has been slimmed down slightly more to accomadate narrower IPD, might need some tweaking.
+
+As for the CS Mount Lens deal, basically, you can either use the NE3 Stock Lens (or XENOCAM Varifocus lens) *or* you can use the CS Mount Lens with the 'CS Mount Lens Assembly' (in the .step). [See this wiki page for links to the different lenses.](https://github.com/knack-69/PVS-69/wiki/Current-Lens-Comparison). If you aren't planning on using the CS mount lens, don't print the 'CS Mount Lens Assembly' items. ezpz
+
+## (EVERYTHING BELOW THIS IS OUTDATED AS OF 11/19 10:44PM EST)
+
+## Bill of Materials 
 
 ### This design requires the following printed components: 
 

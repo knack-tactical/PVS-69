@@ -76,7 +76,7 @@ As for the CS Mount Lens deal, basically, you can either use the NE3 Stock Lens 
 
 1x [AA Spring Terminal](https://amzn.to/3EysOdH)
 
-1x [Buck Converter](https://amzn.to/3KSzHHf) (if not using a [5V USB Power Bank](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup]() for more information)
+1x [Buck Converter](https://amzn.to/3KSzHHf) (if not using a [5V USB Power Bank](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup](https://github.com/knack-69/PVS-69/blob/main/Choosing%20the%20Right%20Battery%20Setup%20for%20My%20PVS-69.pdf) for more information)
 
 2x [10x2mm Nitrile O-ring](https://amzn.to/37mEOko)
 
@@ -94,7 +94,7 @@ Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)
 
 #### Gen4 Bridge (External Battery Only)  
 
-1x [Buck Converter](https://amzn.to/3KSzHHf) (if not using a 5V USB Power Bank, like [this one](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup]() for more information)
+1x [Buck Converter](https://amzn.to/3KSzHHf) (if not using a 5V USB Power Bank, like [this one](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup](https://github.com/knack-69/PVS-69/blob/main/Choosing%20the%20Right%20Battery%20Setup%20for%20My%20PVS-69.pdf) for more information)
 
 11x [M5x8 Bolts](https://amzn.to/3EyraZz)
 
@@ -111,9 +111,5 @@ Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)
 3X [22mm Nitrile O-ring](https://amzn.to/3V5NT4D)
 
 2x [35mm Nitrile O-ring](https://amzn.to/3fVgjz8)
-
-2x [45-46mm section of brass tubing](https://amzn.to/3E3g5Oq)
-
-1x US nickel or other 19mm coin
 
 Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)

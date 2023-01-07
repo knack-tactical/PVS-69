@@ -96,9 +96,13 @@ Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)
 
 1x [Buck Converter](https://amzn.to/3KSzHHf) (if not using a 5V USB Power Bank, like [this one](https://www.amazon.com/gp/product/B07QXV6N1B/), see [this writeup](https://github.com/knack-69/PVS-69/blob/main/Choosing%20the%20Right%20Battery%20Setup%20for%20My%20PVS-69.pdf) for more information)
 
-11x [M5x8 Bolts](https://amzn.to/3EyraZz)
+8x [M5x8mm Bolts](https://amzn.to/3EyraZz)
 
-11x [M5x5.8 Threaded Inserts](https://amzn.to/3E0fzRt)
+8x [M5x5.8mm Threaded Inserts](https://amzn.to/3E0fzRt)
+
+6x M3x45mm Bolts
+
+6x M3 Nuts (nylock would be better, but standard is fine)
 
 1x [Push Button](https://amzn.to/3Txgdvg)
 

@@ -12,7 +12,7 @@ It uses a fpv drone camera and a small screen, rather than a IIT tube, and is de
 The current suggested components cost ~$400, about 10x less than the industry standard phosphor tube-based version.
 
 ### What is the current version?
-The current version of the PVS-69 is the [Gen3 ECHO](https://github.com/knack-69/PVS-69/tree/main/PVS-69%20versions/Gen3%20ECHO)
+The current version of the PVS-69 is the [Gen3 ECHO](https://github.com/knack-69/PVS-69/tree/main/Gen3%20ECHO)
 
 ## Table of Contents
 

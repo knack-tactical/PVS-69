@@ -9,7 +9,7 @@ PVS-69 is a FOSSCAD Monocular Night Vision Device (MNVD).
 It uses a fpv drone camera and a small screen, rather than a IIT tube, and is designed to be mounted to a combat helmet.
 
 ### Why is it useful?
-The current suggested components cost ~$400, about 10x less than the industry standard phosphor tube-based version.
+The current suggested components cost ~$500, about 10x less than the industry standard phosphor tube-based night vision.
 
 ### What is the current version?
 The current version of the PVS-69 is the [Gen3 ECHO](https://github.com/knack-69/PVS-69/tree/main/Gen3%20ECHO)

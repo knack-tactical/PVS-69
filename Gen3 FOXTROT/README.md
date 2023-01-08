@@ -2,9 +2,9 @@
 
 ## Changes from ECHO to FOXTROT
 
-The PVS-69 Gen3 FOXTROT is currently in an unprinted BETA. Take that as a word of caution. Please read all the changes.
+The PVS-69 Gen3 FOXTROT is currently in beta testing. Take that as a word of caution. Please read all the changes.
 
-(unprinted BETA) FOXTROT changes:
+(Beta testing) FOXTROT changes:
 Expanded inner bore for use with V780 display.
 
 Condensed overall pod length but moved the display bore deeper in the pod.
@@ -15,7 +15,7 @@ Added area for the OSD cable to come out the front.
 
 Added CS mount quick change system. Still usable with the classic caps (Called 'NE3 Stock Sensor Cap' in .step)
 
-Added holes to screw the sensor down for the quick change.
+Added holes to screw the sensor down for the lens quick change system.
 
 New Gen4 Bridge (front load) does not require brass tubing however, should be able to accept it.
 
@@ -27,7 +27,7 @@ Battery bridge has been slimmed down slightly more to accomadate narrower IPD, m
 
 As for the CS Mount Lens deal, basically, you can either use the NE3 Stock Lens (or XENOCAM Varifocus lens) *or* you can use the CS Mount Lens with the 'CS Mount Lens Assembly' (in the .step). [See this wiki page for links to the different lenses.](https://github.com/knack-69/PVS-69/wiki/Current-Lens-Comparison). If you aren't planning on using the CS mount lens, don't print the 'CS Mount Lens Assembly' items. ezpz
 
-## (EVERYTHING BELOW THIS IS OUTDATED AS OF 11/19 10:44PM EST)
+## (EVERYTHING BELOW THIS IS OUTDATED AS OF 11/19)
 
 ## Bill of Materials 
 

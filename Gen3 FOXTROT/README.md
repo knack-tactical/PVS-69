@@ -45,8 +45,8 @@ As for the CS Mount Lens deal, basically, you can either use the NE3 Stock Lens 
 
 2x Ambi Tubes
 
-- If you're using V760 Displays, [click here](https://github.com/knack-69/PVS-69/tree/main/Gen3%20FOXTROT/STL/Files%20for%20V780%20Displays)
-- If you're using V780 Displays, [click here](https://github.com/knack-69/PVS-69/tree/main/Gen3%20FOXTROT/STL/Files%20for%20V760%20Displays)
+- If you're using V760 Displays, [click here](https://github.com/knack-69/PVS-69/tree/main/Gen3%20FOXTROT/STL/Files%20for%20V760%20Displays)
+- If you're using V780 Displays, [click here](https://github.com/knack-69/PVS-69/tree/main/Gen3%20FOXTROT/STL/Files%20for%20V780%20Displays)
 
 1x Battery Cap (Only needed if using Gen3 Bridge)
 

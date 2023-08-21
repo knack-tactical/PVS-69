@@ -1,6 +1,6 @@
 # PVS-69
 
-__Disclaimer__: This project is experimental, still in development, and is recommended for experienced tinkerers and moderate solderers. Don't let that disuade you, but know that documentation, methods, and peocedures are not production ready.
+__Disclaimer__: This project is experimental, still in development, and is recommended for experienced tinkerers and solderers. Don't let that disuade you, but know that documentation, methods, and peocedures are not production ready.
 
 [Frequently Asked Questions can be found here.](https://github.com/knack-69/PVS-69/wiki/Frequently-Asked-Questions)
 
@@ -21,8 +21,8 @@ The current version of the PVS-69 is the [Gen3 FOXTROT](https://github.com/knack
 
 [PVS-69/Wiring Diagrams](https://github.com/knack-69/PVS-69/tree/main/Gen3%20FOXTROT/Wiring%20Diagrams) contains the current wiring diagrams for the current version of the PVS-69.
 
-[PVS-69/_Other Versions/__Archive](https://github.com/knack-69/PVS-69/tree/main/_Other%20Versions/__Archive) contains all the older versions of the PVS-69.
+[PVS-69/_Older Versions/__Archive](https://github.com/knack-tactical/PVS-69/tree/main/Older%20Versions/__Archive) contains all the older versions of the PVS-69.
 
 [PVS-69/Gen4 ALPHA](https://github.com/knack-69/PVS-69/tree/main/Gen4%20ALPHA) is an analog/'digital IIT' NVG housing, and is still in closed beta.
 
-[PVS-69/_Other Versions/__Archive/VPNVG](https://github.com/knack-69/PVS-69/tree/main/_Other%20Versions/__Archive/VPNVG)  is the PVS-69 Gen1 pano version using the adafruit displays. The VBNVG was a binocular version which was made in tandem with the VPNVG.
+[PVS-69/_Olders Versions/__Archive/VPNVG](https://github.com/knack-69/PVS-69/tree/main/_Older%20Versions/__Archive/VPNVG)  is the PVS-69 Gen1 pano version using the adafruit displays. The VBNVG was a binocular version which was made in tandem with the VPNVG.

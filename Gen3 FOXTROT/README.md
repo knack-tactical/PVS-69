@@ -99,7 +99,7 @@ Approximately 24" of [20-24 AWG wire](https://amzn.to/3EoQ5yn)
 
 8x [M5x5.8mm Threaded Inserts](https://amzn.to/3E0fzRt)
 
-6x M3x45mm Bolts
+6x [M3x45mm Bolts](https://a.co/d/08iu33J)
 
 6x M3 Nuts (nylock would be better, but standard is fine)
 
